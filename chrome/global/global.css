@@ -84,7 +84,7 @@
 #scrollbutton-up[part="scrollbutton-up"]:not(.menupopup-scrollbutton),
 #scrollbutton-down[part="scrollbutton-down"]:not(.menupopup-scrollbutton)
 {
-	font-size: 12px !important;
+	font-size: 14px !important;
 	padding: 0 !important;
 	margin: 0 !important;
 	border: 2px solid transparent !important;
